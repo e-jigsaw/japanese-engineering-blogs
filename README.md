@@ -29,6 +29,7 @@
 * cookpad http://techlife.cookpad.com/
 * Cyberagent principia http://ameblo.jp/principia-ca/
 * Cyberagent 1pixel http://ameblo.jp/ca-1pixel/
+* CyberAgent Adtech Studio Scala Tech Blog http://adtech.cyberagent.io/scalablog/
 * Classmethod http://dev.classmethod.jp/
 
 #### D companies

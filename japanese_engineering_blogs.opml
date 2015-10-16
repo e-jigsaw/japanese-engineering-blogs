@@ -8,6 +8,7 @@
       <outline type="rss" text="cookpad" title="cookpad" xmlUrl="http://techlife.cookpad.com/feed" htmlUrl="http://techlife.cookpad.com/"/>
       <outline type="rss" text="Cyberagent principia" title="Cyberagent principia" xmlUrl="http://rssblog.ameba.jp/principia-ca/rss20.xml" htmlUrl="http://ameblo.jp/principia-ca/"/>
       <outline type="rss" text="Cyberagent 1pixel" title="Cyberagent 1pixel" xmlUrl="http://rssblog.ameba.jp/ca-1pixel/rss20.xml" htmlUrl="http://ameblo.jp/ca-1pixel/"/>
+      <outline type="rss" text="CyberAgent Adtech Studio Scala Tech Blog" title="Scala Tech Blog | by CyberAgent AdTech Studio" xmlUrl="http://adtech.cyberagent.io/scalablog/feed/" htmlUrl="http://adtech.cyberagent.io/scalablog/"/>
       <outline type="rss" text="Classmethod" title="Classmethod" xmlUrl="http://dev.classmethod.jp/feed/" htmlUrl="http://dev.classmethod.jp/"/>
       <outline type="rss" text="DeNA" title="DeNA" xmlUrl="http://engineer.dena.jp/atom.xml" htmlUrl="http://engineer.dena.jp/"/>
       <outline type="rss" text="dwango" title="dwango" xmlUrl="http://ch.nicovideo.jp/dwango-engineer/blomaga/nico/feed" htmlUrl="http://ch.nicovideo.jp/dwango-engineer/blomaga"/>
